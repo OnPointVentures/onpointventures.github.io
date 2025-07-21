@@ -8,12 +8,12 @@ div {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 480px;
+  height: 400px;
 }
 
 .contact {
-    padding: 30px 50px 30px 50px;  
-    font-family: 'Century Gothic', sans-serif;
+    padding: 10px 10px 10px 10px;  
+    font-family: "Century Gothic", sans-serif;
     font-size: 12pt;
     color: black;
     display: flex;
@@ -22,8 +22,8 @@ div {
 }
 
 footer {
-    padding: 30px 50px 30px 50px;
-    font-family: 'Century Gothic', sans-serif;
+    padding: 10px 10px 10px 10px;
+    font-family: "Century Gothic", sans-serif;
     font-size: 10pt;
     color: black; 
 }
