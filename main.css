@@ -1,6 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
+  background-color: rgb(166,180,150);
 }
 
 main {
@@ -12,4 +13,5 @@ div {
   justify-content: center;
   align-items: center;
   height: 480px;
+  background-color: rgb(166,180,150);
 }
