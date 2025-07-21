@@ -8,12 +8,12 @@ div {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
+  height: 560px;
 }
 
 div2 {
-    padding: 10px 20px 10px 20px;  
-    font-family: "Century Gothic", sans-serif;
+    padding: 20px 20px 20px 20px;  
+    font-family: "Century Gothic", Arial, sans-serif;
     font-size: 9pt;
     color: black;
     display: flex;
@@ -21,9 +21,13 @@ div2 {
     align-items: center;
 }
 
+a:link {color: #ff0000;text-decoration: none}
+a:visited {color: #ff0000;text-decoration: none}
+a:hover {color: #ff0000;}
+
 footer {
-    padding: 10px 20px 20px 20px;
-    font-family: "Century Gothic", sans-serif;
+    padding: 20px 20px 20px 20px;
+    font-family: "Century Gothic", Arial, sans-serif;
     font-size: 9pt;
     color: black; 
     display: flex;
