@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-color: rgb(166,180,150);
+  background-color: rgb(242,242,242); 
 }
 
 div {
@@ -15,24 +15,28 @@ div2 {
     padding: 10px 20px 10px 20px;  
     font-family: "Urbanist", sans-serif;
     font-size: 12pt;
-    color: rgb(127,137,116);
+    color: rgb(242,242,242); 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-a:link {color: rgb(127,137,116);text-decoration: none;}
-a:visited {color: rgb(127,137,116);text-decoration: none;}
-a:hover {color: rgb(127,137,116);}
+a:link {color: rgb(204,204,204);text-decoration: none;}
+a:visited {color: rgb(204,204,204);text-decoration: none;}
+a:hover {color: rgb(204,204,204);}
 
 footer {
     padding: 10px 20px 20px 20px;
     font-family: "Urbanist", sans-serif;
     font-size: 12pt;
-    color: rgb(127,137,116); 
+    color: rgb(204,204,204); 
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 /* Use these symbols to enlose comments on CSS */
+
+/* Light green background: background-color: rgb(166,180,150); 
+Green font: color: rgb(127,137,116); 
+*/
