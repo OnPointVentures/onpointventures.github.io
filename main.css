@@ -14,7 +14,7 @@ div {
 div2 {
     padding: 20px 20px 20px 20px;  
     font-family: Quicksand;
-    font-size: 9pt;
+    font-size: 12pt;
     color: black;
     display: flex;
     justify-content: center;
@@ -28,7 +28,7 @@ a:hover {color: black;}
 footer {
     padding: 20px 20px 20px 20px;
     font-family: Quicksand;
-    font-size: 9pt;
+    font-size: 12pt;
     color: black; 
     display: flex;
     justify-content: center;
