@@ -13,7 +13,7 @@ div {
 
 div2 {
     padding: 10px 20px 10px 20px;  
-    font-family: Urbanist;
+    font-family: "Urbanist", sans-serif;
     font-size: 12pt;
     color: rgb(127,137,116);
     display: flex;
@@ -27,7 +27,7 @@ a:hover {color: rgb(127,137,116);}
 
 footer {
     padding: 10px 20px 20px 20px;
-    font-family: Urbanist;
+    font-family: "Urbanist", sans-serif;
     font-size: 12pt;
     color: rgb(127,137,116); 
     display: flex;
