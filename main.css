@@ -21,8 +21,8 @@ div2 {
     align-items: center;
 }
 
-a:link {color: #ff0000;text-decoration: none}
-a:visited {color: #ff0000;text-decoration: none}
+a:link {color: #ff0000;text-decoration: none;}
+a:visited {color: #ff0000;text-decoration: none;}
 a:hover {color: #ff0000;}
 
 footer {
