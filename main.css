@@ -10,3 +10,20 @@ div {
   align-items: center;
   height: 480px;
 }
+
+.contact {
+    padding: 30px 50px 30px 50px;  
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 12pt;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+footer {
+    padding: 30px 50px 30px 50px;
+    font-family: 'Century Gothic', sans-serif;
+    font-size: 10pt;
+    color: black; 
+}
