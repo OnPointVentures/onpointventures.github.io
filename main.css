@@ -13,7 +13,7 @@ div {
 
 div2 {
     padding: 20px 20px 20px 20px;  
-    font-family: "Century Gothic", Arial, sans-serif;
+    font-family: Quicksand;
     font-size: 9pt;
     color: black;
     display: flex;
@@ -27,7 +27,7 @@ a:hover {color: black;}
 
 footer {
     padding: 20px 20px 20px 20px;
-    font-family: "Century Gothic", Arial, sans-serif;
+    font-family: Quicksand;
     font-size: 9pt;
     color: black; 
     display: flex;
