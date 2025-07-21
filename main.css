@@ -4,14 +4,9 @@ body {
   background-color: rgb(166,180,150);
 }
 
-main {
-    background-color: rgb(166,180,150);
-}
-
 div {
   display: flex;
   justify-content: center;
   align-items: center;
   height: 480px;
-  background-color: rgb(166,180,150);
 }
